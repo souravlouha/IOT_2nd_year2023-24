@@ -1,7 +1,7 @@
 <h1> There are three different problems on the first day ...</h1>
 
 
-<h1> This Repository contains the codes of  all NBA related projects .  </h1>
+
 
 
 <h3>In the first problem, how to connect NodeMCU with LDR sensor, and how to send and store the data received from it to the IOT cloud base, we will see first.</h3>
