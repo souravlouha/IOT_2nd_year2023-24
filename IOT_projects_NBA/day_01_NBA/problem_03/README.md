@@ -1,4 +1,5 @@
-<h1></h1>
+<h1>In this problem, three values will be input together, Humidity, Temperature, and val.
+It is being treated as an agricultural project. Means some conditions will be applied here, if the humidity decreases then automatically the motor will start and the water will come out. In this way some more conditions will apply.</h1>
 
 
 
