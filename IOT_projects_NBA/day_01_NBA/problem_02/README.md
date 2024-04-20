@@ -7,4 +7,5 @@
 
 <h2>data base</h2>
 
-![alt text](<WhatsApp Image 2024-04-20 at 16.51.03_0537d296.jpg>)
+![WhatsApp Image 2024-04-20 at 16 51 03_0537d296](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/6fb341d2-50d5-4e91-ac67-a9f51a0d44c9)
+
