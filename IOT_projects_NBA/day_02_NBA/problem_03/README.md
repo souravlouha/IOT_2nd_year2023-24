@@ -1,4 +1,4 @@
-<h1></h1>
+<h1>In this third problem, with the help of DHT11 sensor two variables, (those variables are temperature and humidity) inputs, those data have to be uploaded to firebase.</h1>
 
 
 <h2>A main container should be created in firebase, which is DHT container, under this DHT container two more subcontainers should be created, one will be temperature and the other will be humidity.</h2>
