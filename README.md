@@ -16,4 +16,7 @@
 ![ESP-12E-Development-Board-ESP8266-NodeMCU-Pinout](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/058321b8-2b02-463f-908b-80fb341589af)
 
 
+<h2>Rashberry pi architecture </h2>
+
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/295ae218-e8fe-4421-829e-3f9f671b44fc)
 
