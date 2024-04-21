@@ -1,4 +1,14 @@
 <h1>In the first problem we will see that with the help of node MCU and BLYNK APP, we can turn an LED remotely ON or OFF.</h1>
+
+
+<h1>Circuits </h1>
+
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/7df60ae2-73c2-4aac-8e95-728fa0f7355b)
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/fbb0eaa9-c770-4e49-92b5-8afb6c3b714c)
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/75389bd6-78e7-4347-a456-ff3b488f5f13)
+
+
+
   
 <h2>  BLYNK is an iot platform, with the help of which many types of work can be done in iot projects.
 Both mobile APP and WEB VERSION of BLYNK have to work together, with the help of which IOT related projects can be done very easily.</h2>
