@@ -27,3 +27,7 @@ It is being treated as an agricultural project. Means some conditions will be ap
 <h2>Humidity, Temperature,and val.</h2>
 
 ![WhatsApp Image 2024-04-20 at 17 30 06_0ace863b](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/2b1cfebd-16d3-4ec8-939d-63bb8d156702)
+
+<h1>DHT11</h1>
+
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/72cb2f44-9960-4a62-890e-9a9761d99b20)
