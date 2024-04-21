@@ -1,5 +1,9 @@
-<h1>In this problem, three values will be input together, Humidity, Temperature, and val.
-It is being treated as an agricultural project. Means some conditions will be applied here, if the humidity decreases then automatically the motor will start and the water will come out. In this way some more conditions will apply.</h1>
+<h1>Smart Agriculture System:- Sensor Value's of Temperature,Humidity and Light Intensity(LDR) will be uploaded in Cloud (thingspeak or any other) , then we have to set the Threshold value for Temp , Atmospheric Humidity , Soil Moisture , etc . Using Relay , We have to cover the Soil or Switch ON the Water Pump depending on the Threshold Value's of Temp , Humidity etc.Then we have control that device using Blynk app. Atlast if possible we have to upload that data in our Own Webpage.
+</h1>
+
+
+<h3>In this problem, three values will be input together, Humidity, Temperature, and val.
+It is being treated as an agricultural project. Means some conditions will be applied here, if the humidity decreases then automatically the motor will start and the water will come out. In this way some more conditions will apply.</h3>
 
 
 
