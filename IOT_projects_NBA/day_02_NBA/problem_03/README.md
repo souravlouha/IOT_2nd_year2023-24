@@ -6,6 +6,10 @@
 <h2>These two containers, one for temperature and the other for humidity, will store data for the inputs.</h2>
 <h2>And Firebest will continuously take input from sensors, and continuously show it on Firebest's monitor.</h2>
 
+<h1>DHT11</h1>
+
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/4d349bc0-b5a3-4e6b-bf0f-838d14324fd0)
+
 
 <h1>circuits </h1>
 
