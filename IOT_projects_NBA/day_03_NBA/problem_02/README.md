@@ -26,6 +26,9 @@
 
 ![WhatsApp Image 2024-04-27 at 14 36 36_115c0e11](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/2449ed39-e8a6-477d-8df8-8678c19f17a3)
 
+![WhatsApp Image 2024-04-27 at 14 14 49_c08dbee9](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/14f5199c-ac1b-4bd2-a17e-3411c488275a)
+
+
 
 <h1>The values ​​obtained</h1>
 
