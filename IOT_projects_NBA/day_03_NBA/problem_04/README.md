@@ -1,5 +1,8 @@
 <h1>First we will setup the raspberry pi. And with the raspberry pi added monitor hdmi port, mouse, keyboard, and power supply.</h1>
 
+<h2>LED Blink using 1 second delay.</h2>
+
+
 ![WhatsApp Image 2024-04-27 at 17 18 38_42956ed3](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/7348a059-a53a-4b09-9b5c-3cdebe60dc34)
 
 <h1>Through the raspberry Pi, the led will be turned on or off.</h1>
