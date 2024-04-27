@@ -16,7 +16,7 @@
 
 
 
-<h1>First we will setup the <u><b><i>raspberry Pi</i></b></u>. And with the <b><i>raspberry Pi</i></b>added monitor hdmi port, mouse, keyboard, and power supply.</h1>
+<h1>First we will setup the <u><b><i>raspberry Pi</i></b></u>. And with the <b><i>raspberry Pi</i></b> added monitor hdmi port, mouse, keyboard, and power supply.</h1>
 <h2>LED Blink using 1 second delay.</h2>
 <h2>Through the <b><i>raspberry Pi</i></b>, the led will be turned on or off.</h2>
 <h2>Setup the Raspberry pi</h2>
