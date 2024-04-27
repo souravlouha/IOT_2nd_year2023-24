@@ -23,4 +23,7 @@
 ![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/620ff36e-a9cf-444a-9aff-9398f607a801)
 ![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/3b50f9d8-eb15-467e-8ff3-3e628e6e9ffd)
 
+<h2> ESP 32 Architecture </h2>
+
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/c142dad0-dc7c-4d1b-8f3e-6688c3378632)
 
