@@ -24,6 +24,10 @@
 
 ![WhatsApp Image 2024-04-27 at 17 18 39_ea52a484](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/cf4e59e5-8948-4e08-88e2-b5143a9e5a43)
 
+<h1>Raspberry pi code terminal look like that </h1>
+
+![image](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/c849ea18-7186-4261-b793-4d55b8aca2ad)
+
 
 ![WhatsApp Image 2024-04-27 at 17 18 36_581fd306](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/2e6cc496-357b-4d26-8713-5b03cecf77cd)
 
