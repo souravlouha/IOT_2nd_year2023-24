@@ -16,14 +16,14 @@
 
 
 
-<h1>First we will setup the raspberry pi. And with the raspberry pi added monitor hdmi port, mouse, keyboard, and power supply.</h1>
+<h1>First we will setup the <u><b><i>raspberry Pi</i></b></u>. And with the <b><i>raspberry Pi</i></b>i added monitor hdmi port, mouse, keyboard, and power supply.</h1>
 <h2>LED Blink using 1 second delay.</h2>
-<h2>Through the raspberry Pi, the led will be turned on or off.</h2>
+<h2>Through the <b><i>raspberry Pi</i></b>, the led will be turned on or off.</h2>
 <h2>Setup the Raspberry pi</h2>
 
 
 
-<h1>Through the raspberry Pi, the Servo Motor will be rotation angle.</h1>
+<h1>Through the <u><b><i>raspberry Pi</i></b></u>, the Servo Motor will be rotation angle.</h1>
 <h2>Rotating control Servo Motor , using Raspberry Pi .</h2>
 
 
