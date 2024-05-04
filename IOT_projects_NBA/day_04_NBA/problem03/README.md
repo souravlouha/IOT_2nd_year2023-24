@@ -7,8 +7,9 @@
 
 ![WhatsApp Image 2024-05-04 at 15 09 03_272a4b3c](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/df3fdf30-624f-4434-94d7-6a75468ab60d)
 
-![Uploading WhatsApp Image 2024-05-04 at 15.14.50_364db7a8.jpg…]()
 
+
+![WhatsApp Image 2024-05-04 at 15 14 50_2e4092d9](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/de4160cd-e7e5-461a-b088-98a223ef8465)
 
 
 
