@@ -1,4 +1,5 @@
 <h1>In this problem we will see how to connect Arduino UNO and Raspberry pi each other .</h1>
+<h2>This problem is limited to just connecting these two , which is more detailed in example problem number04 . </h2>
 
 
 
