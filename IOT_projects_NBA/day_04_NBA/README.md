@@ -6,3 +6,5 @@
 
 
 <h2>In this problem we will see how to connect Arduino UNO and Raspberry pi each other .</h2>
+
+<h2>In this problem we will connect Ardiuno and Raspberry pi, use ldr sensor instead of lm 35 as temperature sensor, and by showing it on thonny's terminal, those values should be uploaded to the cloud.</h2>
