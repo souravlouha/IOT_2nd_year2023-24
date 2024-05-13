@@ -20,3 +20,7 @@ Reinforcement learning.</h4>
 
 
 ![WhatsApp Image 2024-05-11 at 13 52 29_26909309](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/f4f555d6-ddaf-47ec-b667-ff8b715c9f85)
+
+![WhatsApp Image 2024-05-11 at 13 58 19_feaad495](https://github.com/souravlouha/IOT_2nd_year2023-24/assets/130911872/a791881c-2f81-45a2-b075-ba302df540f9)
+
+
