@@ -1,7 +1,5 @@
 
 
-
-
 <h1>Plant Disease Detection Using Machine Learning</h1>
 
 <url>![Screenshot (129)](https://github.com/user-attachments/assets/9c142875-973e-43ce-848e-dbea3e4cda3c)</url>
