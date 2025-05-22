@@ -187,9 +187,11 @@ PlantVillage Dataset – Kaggle
 
 TensorFlow Documentation – https://www.tensorflow.org
 
+---
 ### 👨‍💻 Author
 Sourav Louha -
 [GitHub Profile](https://github.com/souravlouha)
+
 Third-year Engineering Student | ML Enthusiast | Open Source Contributor
 
 
